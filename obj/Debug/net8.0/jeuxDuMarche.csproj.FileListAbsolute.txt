@@ -1,0 +1,14 @@
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/bin/Debug/net8.0/jeuxDuMarche
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/bin/Debug/net8.0/jeuxDuMarche.deps.json
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/bin/Debug/net8.0/jeuxDuMarche.runtimeconfig.json
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/bin/Debug/net8.0/jeuxDuMarche.dll
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/bin/Debug/net8.0/jeuxDuMarche.pdb
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.GeneratedMSBuildEditorConfig.editorconfig
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.AssemblyInfoInputs.cache
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.AssemblyInfo.cs
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.csproj.CoreCompileInputs.cache
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.dll
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/refint/jeuxDuMarche.dll
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.pdb
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/jeuxDuMarche.genruntimeconfig.cache
+/home/blacky/Documents/Etudes/Bac/2_ieme/Progra/C#/Exo_second_2/jeuxDuMarche/obj/Debug/net8.0/ref/jeuxDuMarche.dll
